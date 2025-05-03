@@ -1,5 +1,4 @@
-# Sintaxis-y-Sem-ntica-de-los-Lenguajes
-K2052
+# Sintaxis-y-Semántica-de-los-Lenguajes
 
 
 • Sintaxis y Semántica de los Lenguajes 
